@@ -1,4 +1,3 @@
 # hello-world
-My first repository 
 
-Hi there, how ya'll doing. 
+Hi there, how ya'll doing. I'm updating the readme file, fascsinating indeed
