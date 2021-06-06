@@ -1,2 +1,2 @@
 # hello-world
-My first r epository 
+My first repository 
